@@ -82,7 +82,21 @@ body{
     margin-bottom: 0.1em;
 }
 
+.container_descricao{
+    padding:2em;
+}
+
 .descricao_texto{
     color: var(--cinza-secundario);
 }
+
+.secundario_botao{
+    display: inline-block;
+    margin-top:1em;
+}
+
+.descricao_texto{
+    color:var(--cinza-secundario);
+}
+
 
